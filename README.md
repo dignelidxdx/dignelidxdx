@@ -1,7 +1,7 @@
 ### Hola a todos.. Soy Digneli Dávila, Ingeniera Industrial y Programadora Jr. Tengo 25 años 👋 Amo aprender y compartir conocimientos ⚡.
 ![Intro](https://firebasestorage.googleapis.com/v0/b/my-portfolio-2a204.appspot.com/o/Digneli%20D%C3%A1vila.png?alt=media&token=bcb1bc66-d06c-423c-89b6-04ef0e91f7f3)
 
-Reach me on: [![Linkedin: Digneli](https://img.shields.io/badge/-Laurita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digneli-davila/)](https://www.linkedin.com/in/digneli-davila/)
+Reach me on: [![Linkedin: Digneli](https://img.shields.io/badge/-Digneli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digneli-davila/)](https://www.linkedin.com/in/digneli-davila/)
 
 ## Tech Stack:
 
