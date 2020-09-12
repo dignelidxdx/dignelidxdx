@@ -43,6 +43,7 @@ Hobbies: [My favorite hobbies are: Excersite, Play Video Games, Read, Study and 
 ```
 <em><b>Mi día a día es como un libro ✨ , me encanta aprender nuevas cosas y llevarlas a la práctica como también enseñarlas. Siempre me sumo a nuevos retos y trato de dar lo mejor de mi, no conozco un "no se puede" en mi vocalulario diario </b> :)</em>
 
+![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=dignelidxdx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 **dignelidxdx/dignelidxdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
