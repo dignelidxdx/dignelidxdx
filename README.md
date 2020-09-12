@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola todos.. Soy Digneli Dávila, tengo 25 años 👋 amo aprender y compartir conocimientos.
+![Intro](https://firebasestorage.googleapis.com/v0/b/my-portfolio-2a204.appspot.com/o/CV-Digneli-Davila-English.pdf?alt=media&token=6a8ef4f6-a683-4169-9404-29ca9a1f35d7)
 
 <!--
 **dignelidxdx/dignelidxdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
