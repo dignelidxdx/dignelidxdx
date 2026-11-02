@@ -1,60 +1,55 @@
-### Hola a todos.. Soy Digneli Dávila, Ingeniera Industrial y Programadora Jr. Tengo 25 años 👋 Amo aprender y compartir conocimientos ⚡.
-![Intro](https://firebasestorage.googleapis.com/v0/b/my-portfolio-2a204.appspot.com/o/Digneli%20D%C3%A1vila.png?alt=media&token=bcb1bc66-d06c-423c-89b6-04ef0e91f7f3)
+# Hi, I'm Digneli Dávila 👋
 
-Reach me on: [![Linkedin: Digneli](https://img.shields.io/badge/-Digneli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digneli-davila/)](https://www.linkedin.com/in/digneli-davila/)
-Portfolio: <https://dignelidavila.com>.
+**Software Engineer | Backend · Distributed Systems · SRE**
 
+I'm an Industrial Engineer and Software Engineer with 6+ years of experience building backend services, integrations, and internal tools that improve reliability and developer productivity.
 
-## Tech Stack:
+My work combines Go, Java, and Python with software architecture, automation, and a business-focused approach. I've worked on fintech solutions and reliability tooling at Mercado Libre, including service criticality assessments, incident management, and AI-assisted workflows.
 
-```Java
-public static void main(String[] args) {
-		SpringApplication.run(ApiApplication.class, args);
-		creatingNewDev();
-	}
+I enjoy understanding how systems work, simplifying complex problems, and sharing what I learn.
 
-	public static void creatingNewDev() {
-		
-		List<Frontend> fSkills = new ArrayList<>();
-		Frontend frontend = new Frontend("ReactJS", "Redux", "Bootstrap");
-		fSkills.add(frontend);
+## 💻 Technical Skills
 
-		List<Backend> bSkills = new ArrayList<>();
-		Backend backend = new Backend("Microservices", "Spring-boot", "Maven", "JWT", "WebAPI");
-		bSkills.add(backend);
+| Area | Technologies & Practices |
+| --- | --- |
+| Backend | Go (Golang), Java, Spring Boot, Python, REST APIs, BFF |
+| Architecture | Microservices, distributed systems, hexagonal architecture, Event Sourcing, design patterns |
+| Messaging | Kafka, Pub/Sub |
+| Site Reliability Engineering | Datadog, SLOs, error budgets, observability, monitoring, alerting, incident management |
+| Data & Analytics | BigQuery, Dataflow, Looker, Tableau |
+| Databases & Caching | MySQL, Oracle SQL, Redis |
+| Cloud & Infrastructure | AWS, Docker, OpenShift |
+| Quality & Version Control | Git, JUnit, Mockito, SonarQube, code reviews |
+| AI-Assisted Development | GenAI, Codex, AI Copilot |
+| Technical Documentation | Runbooks, RFCs, ADRs, operational procedures |
 
-		List<Hobby> hobbies = new ArrayList<>();
-		Hobby hob = new Hobby("Excersite", "Play Video Games", "Read, Study and Listen to Music");
-		hobbies.add(hob);	
+## 🛠️ What I've Worked On
 
-		Developer developer = new Developer("Digneli Dávila", 25, "Buenos Aires", fSkills, bSkills, hobbies);
-		
-		String[] otherSkills = {"SQL", "JUnit", "Mockito", "Sonarqube"};
+- Reliability assessments and KPIs covering 30,000+ web microservices.
+- Backend services and internal SRE tools built primarily with Go.
+- Incident and postmortem tooling, including AI-assisted action item creation.
+- Processing approximately 200 critical incident videos per month into transcripts for AI analysis.
+- Data integrations supporting reliability assessments and reporting across 2,000+ teams.
+- Java and Spring Boot microservices for digital wallet and payment gateway solutions.
 
-		System.out.println(developer);
-	}
-```
-<em><b> Output: </b></em>
-```Java
-Name: Digneli Dávila. Age: 25 Address: Buenos Aires
-Frontend Skills: [My main frontend skill: ReactJS. Second: Redux. Third: Bootstrap.]
-Backend Skills: [My main backend skill: Microservices. Second: Spring-boot. Third: Maven. Fourth: JWT. Fiveth: WebAPI.]
-Hobbies: [My favorite hobbies are: Excersite, Play Video Games, Read, Study and Listen to Music.]
-```
-<em><b>Mi día a día es como un libro ✨ , me encanta aprender nuevas cosas y llevarlas a la práctica como también enseñarlas. Siempre me sumo a nuevos retos y trato de dar lo mejor de mi, no conozco un "no se puede" en mi vocabulario diario </b> :)</em>
+## 🌱 Currently Exploring
 
-![Dipto Chakrabartys Github Stats](https://github-readme-stats.vercel.app/api?username=dignelidxdx&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<!--
-**dignelidxdx/dignelidxdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering, LangChain, LangGraph, RAG, MCP, agentic systems, and cloud architecture.
 
-Here are some ideas to get you started:
+## 🤝 Knowledge Sharing & Collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy exchanging ideas across teams and making technical knowledge easier to use through documentation, practical examples, and conversations.
+
+I've shared Clean Code practices through an internal talk and worked with technical representatives across services to build shared understanding of service criticality.
+
+## 🌎 Languages
+
+- Spanish: Native / bilingual
+- English: Professional working proficiency (B2)
+- Portuguese: Good comprehension
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/digneli-davila/)
+- [Website & Portfolio](https://dignelidavila.com)
+- [GitHub Repositories](https://github.com/dignelidxdx?tab=repositories)
