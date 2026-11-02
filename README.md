@@ -19,7 +19,6 @@ I enjoy understanding how systems work, simplifying complex problems, and sharin
 | Site Reliability Engineering | Datadog, SLOs, error budgets, observability, monitoring, alerting, incident management |
 | Data & Analytics | BigQuery, Dataflow, Looker, Tableau |
 | Databases & Caching | MySQL, Oracle SQL, Redis |
-| Cloud & Infrastructure | AWS, Docker, OpenShift |
 | Quality & Version Control | Git, JUnit, Mockito, SonarQube, code reviews |
 | AI-Assisted Development | GenAI, Codex, AI Copilot |
 | Technical Documentation | Runbooks, RFCs, ADRs, operational procedures |
