@@ -14,6 +14,7 @@ I enjoy understanding how systems work, simplifying complex problems, and sharin
 | --- | --- |
 | Backend | Go (Golang), Java, Spring Boot, Python, REST APIs, BFF |
 | Architecture | Microservices, distributed systems, hexagonal architecture, Event Sourcing, design patterns |
+| Cloud & Infrastructure | AWS (Lambda), Docker, OpenShift |
 | Messaging | Kafka, Pub/Sub |
 | Site Reliability Engineering | Datadog, SLOs, error budgets, observability, monitoring, alerting, incident management |
 | Data & Analytics | BigQuery, Dataflow, Looker, Tableau |
